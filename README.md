@@ -13,7 +13,7 @@
 This website uses OpenAI's DALL·E 3 and GPT-4 Vision API. The starting prompt generates an image using DALL·E 3, then GPT-4V is used to describe the image. This description is used as the prompt for the next DALL·E 3 generation.
 
 
-[![Picursion](https://github.com/sachnaror/picursion/public/socialshare.jpg)](https://picursion.web.app/)
+[![Picursion](https://raw.githubusercontent.com/sachnaror/picursion/main/public/socialshare.jpg)](https://picursion.web.app/)
 
 
 ## Running the project
