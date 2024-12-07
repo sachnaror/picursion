@@ -27,5 +27,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 **Starting DALL·E 3 Prompt:** A unicorn driving a car on the moon\
 **GPT-4 Vision Setting:** 'Make it scarier'
 
-<img src="https://github.com/sachnaror/picursion/assets/40081309/ce770047-9a52-41d4-b23f-8f3dc2f3177d" alt="picursion-result" width="500"/>
+<img src="https://raw.githubusercontent.com/sachnaror/picursion/main/.asst/result.gif" alt="picursion-result" width="500"/>
 
